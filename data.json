@@ -6,7 +6,7 @@
         "description": "¡Seguimos Contigo!",
         "logo": "https://mifavorita.com.pa/2017/wp-content/uploads/2021/03/LOGOMIFAVLOGO2MATIC-MI-FAVORITA-logo.png",
         "cover": "",
-        "country": "Panama",
+        "country": "PA",
         "languages": [
             "ES-PA"
         ],
@@ -39,5 +39,41 @@
                 "mimeType": "audio/mpeg"
             }
         ]
+    },
+    {
+      "xid": "superqpa",
+      "name": "SuperQ",
+      "description": "",
+      "logo": "https://static-media.streema.com/media/cache/10/b2/10b2e696dc0b280c83d00610fff4b5bd.jpg",
+      "cover": "",
+      "country": "PA",
+      "languages": [
+        "es"
+      ],
+      "genres": [
+        "Variado"
+      ],
+      "website": "https://superqpanama.net/",
+      "sponsored": false,
+      "streams": [
+        {
+          "status": 1,
+          "title": "",
+          "description": "",
+          "thumbnail": "https://static-media.streema.com/media/cache/10/b2/10b2e696dc0b280c83d00610fff4b5bd.jpg",
+          "genres": [
+            "Variado"
+          ],
+          "signals": [
+            "90.5 FM"
+          ],
+          "url": "https://sqserver.superqpanama.net:8005/superqpanama",
+          "drm": {},
+          "songs": [],
+          "volume": 1,
+          "mediaType": "MP3",
+          "mimeType": "audio/mpeg"
+        }
+      ]
     }
 ]
