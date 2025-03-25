@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "xid": "mifavorita",
+        "name": "Mi Favorita",
+        "description": "¡Seguimos Contigo!",
+        "logo": "https://mifavorita.com.pa/2017/wp-content/uploads/2021/03/LOGOMIFAVLOGO2MATIC-MI-FAVORITA-logo.png",
+        "cover": "",
+        "country": "Panama",
+        "languages": [
+            "ES-PA"
+        ],
+        "genres": [
+            "Variado"
+        ],
+        "signals": [
+            "91.9 FM",
+            "1070 AM"
+        ],
+        "website": "https://mifavorita.com.pa/",
+        "sponsored": false,
+        "streams": [
+            {
+                "status": 1,
+                "title": "Mi Favorita",
+                "description": "¡Seguimos Contigo!",
+                "thumbnail": "https://mifavorita.com.pa/2017/wp-content/uploads/2021/03/LOGOMIFAVLOGO2MATIC-MI-FAVORITA-logo.png",
+                "genres": [
+                    "Variado"
+                ],
+                "signals": [
+                    "91.9 FM"
+                ],
+                "url": "https://stream.zeno.fm/o8tddzg61trtv",
+                "drm": {},
+                "songs": [],
+                "volume": 1.5,
+                "mediaType": "MP3",
+                "mimeType": "audio/mpeg"
+            }
+        ]
+    }
+]
