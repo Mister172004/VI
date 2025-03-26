@@ -24,26 +24,8 @@
             "Variado"
           ],
           "signals": [
-            "Stream",
-              "Stream2"
-          ],
-          "url": "https://sqserver.superqpanama.net:8005/superqpanama",
-          "drm": {},
-          "songs": [],
-          "volume": 1,
-          "mediaType": "MP3",
-          "mimeType": "audio/mpeg"
-        },
-                {
-          "status": 1,
-          "title": "",
-          "description": "",
-          "thumbnail": "https://static-media.streema.com/media/cache/10/b2/10b2e696dc0b280c83d00610fff4b5bd.jpg",
-          "genres": [
-            "Variado"
-          ],
-          "signals": [
-            "Stream 3"
+            "90.5 FM",
+            "91.1 FM"
           ],
           "url": "https://sqserver.superqpanama.net:8005/superqpanama",
           "drm": {},
